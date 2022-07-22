@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_move_planner/templates *
+recursive-include octoprint_move_planner/translations *
+recursive-include octoprint_move_planner/static *
